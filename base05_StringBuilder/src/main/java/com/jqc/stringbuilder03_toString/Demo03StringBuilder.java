@@ -11,6 +11,7 @@ public class Demo03StringBuilder {
         //String->StringBuilder
         String str = "hello";
         System.out.println("str:"+str);
+        //字符串转StringBuilder
         StringBuilder bu = new StringBuilder(str);
         //往StringBuilder中添加数据
         bu.append("world");
