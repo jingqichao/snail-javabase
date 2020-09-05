@@ -1,4 +1,4 @@
-package com.jqc.lambda01_NoArgs;
+package com.jqc.lambda02_NoArgs;
 
 /*
     定一个厨子Cook接口，内含唯一的抽象方法makeFood

@@ -1,4 +1,4 @@
-package com.jqc.lambda01_NoArgs;
+package com.jqc.lambda02_NoArgs;
 
 /*
     需求:
