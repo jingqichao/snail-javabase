@@ -1,4 +1,4 @@
-package com.jqc.date01_DateMethod;
+package com.jqc.date02_DateMethod;
 
 import java.util.Date;
 
