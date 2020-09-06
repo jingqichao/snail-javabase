@@ -1,4 +1,4 @@
-package com.jqc.generic01_genericClass;
+package com.jqc.generic02_genericClass;
 
 public class Demo02GenericClass {
     public static void main(String[] args) {
