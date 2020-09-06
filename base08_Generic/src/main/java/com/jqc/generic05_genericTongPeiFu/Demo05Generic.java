@@ -1,4 +1,4 @@
-package com.jqc.generic04_genericTongPeiFu;
+package com.jqc.generic05_genericTongPeiFu;
 
 import java.util.ArrayList;
 import java.util.Iterator;
