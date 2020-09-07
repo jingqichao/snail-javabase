@@ -1,4 +1,4 @@
-package com.jqc.list01_LinkedList;
+package com.jqc.list02_LinkedList;
 
 import java.util.LinkedList;
 
