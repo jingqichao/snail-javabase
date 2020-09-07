@@ -1,4 +1,4 @@
-package com.jqc.recursion01_sumOneToN;
+package com.jqc.recursion02_sumOneToN;
 /*
     练习:
         使用递归计算1-n之间的和
