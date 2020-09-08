@@ -7,6 +7,19 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/base01_Lambda/pom.xml" />
+        <option value="$PROJECT_DIR$/base01_Object/pom.xml" />
+        <option value="$PROJECT_DIR$/base02_Date/pom.xml" />
+        <option value="$PROJECT_DIR$/base03_Calendar/pom.xml" />
+        <option value="$PROJECT_DIR$/base04_System/pom.xml" />
+        <option value="$PROJECT_DIR$/base05_StringBuilder/pom.xml" />
+        <option value="$PROJECT_DIR$/PackagingClass/pom.xml" />
+        <option value="$PROJECT_DIR$/base07_Collection/pom.xml" />
+        <option value="$PROJECT_DIR$/base08_Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/base09_List/pom.xml" />
+        <option value="$PROJECT_DIR$/base10_Set/pom.xml" />
+        <option value="$PROJECT_DIR$/base11_Map/pom.xml" />
+        <option value="$PROJECT_DIR$/base12_File/pom.xml" />
+        <option value="$PROJECT_DIR$/base13_Recursion/pom.xml" />
       </list>
     </option>
   </component>

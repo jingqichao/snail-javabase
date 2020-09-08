@@ -6,11 +6,37 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="base01_Lambda" />
+        <module name="base30_Lambda" />
+        <module name="base03_Calendar" />
+        <module name="base11_Map" />
+        <module name="base01_Object" />
+        <module name="base04_System" />
+        <module name="base02_Date" />
+        <module name="base07_Collection" />
+        <module name="base08_Generic" />
+        <module name="base12_File" />
+        <module name="base05_StringBuilder" />
+        <module name="base10_Set" />
+        <module name="base06_PackagingClass" />
+        <module name="base13_Recursion" />
+        <module name="base09_List" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="base01_Lambda" target="1.8" />
+      <module name="base01_Object" target="7" />
+      <module name="base02_Date" target="1.5" />
+      <module name="base03_Calendar" target="1.5" />
+      <module name="base04_System" target="1.5" />
+      <module name="base05_StringBuilder" target="1.5" />
+      <module name="base06_PackagingClass" target="1.5" />
+      <module name="base07_Collection" target="7" />
+      <module name="base08_Generic" target="7" />
+      <module name="base09_List" target="7" />
+      <module name="base10_Set" target="7" />
+      <module name="base11_Map" target="7" />
+      <module name="base12_File" target="7" />
+      <module name="base13_Recursion" target="7" />
+      <module name="base30_Lambda" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

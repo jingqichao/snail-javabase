@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/base01_Lambda/base01_Lambda.iml" filepath="$PROJECT_DIR$/base01_Lambda/base01_Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base01_Object/base01_Object.iml" filepath="$PROJECT_DIR$/base01_Object/base01_Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base02_Date/base02_Date.iml" filepath="$PROJECT_DIR$/base02_Date/base02_Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base03_Calendar/base03_Calendar.iml" filepath="$PROJECT_DIR$/base03_Calendar/base03_Calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base04_System/base04_System.iml" filepath="$PROJECT_DIR$/base04_System/base04_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base05_StringBuilder/base05_StringBuilder.iml" filepath="$PROJECT_DIR$/base05_StringBuilder/base05_StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base06_PackagingClass/base06_PackagingClass.iml" filepath="$PROJECT_DIR$/base06_PackagingClass/base06_PackagingClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base07_Collection/base07_Collection.iml" filepath="$PROJECT_DIR$/base07_Collection/base07_Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base08_Generic/base08_Generic.iml" filepath="$PROJECT_DIR$/base08_Generic/base08_Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base09_List/base09_List.iml" filepath="$PROJECT_DIR$/base09_List/base09_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base10_Set/base10_Set.iml" filepath="$PROJECT_DIR$/base10_Set/base10_Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base11_Map/base11_Map.iml" filepath="$PROJECT_DIR$/base11_Map/base11_Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base12_File/base12_File.iml" filepath="$PROJECT_DIR$/base12_File/base12_File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base13_Recursion/base13_Recursion.iml" filepath="$PROJECT_DIR$/base13_Recursion/base13_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base30_Lambda/base30_Lambda.iml" filepath="$PROJECT_DIR$/base30_Lambda/base30_Lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/git-javabase.iml" filepath="$PROJECT_DIR$/.idea/git-javabase.iml" />
     </modules>
   </component>
