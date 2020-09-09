@@ -9,6 +9,7 @@
         <module name="base30_Lambda" />
         <module name="base03_Calendar" />
         <module name="base11_Map" />
+        <module name="base14_Socket" />
         <module name="base01_Object" />
         <module name="base04_System" />
         <module name="base02_Date" />
@@ -36,6 +37,7 @@
       <module name="base11_Map" target="7" />
       <module name="base12_File" target="7" />
       <module name="base13_Recursion" target="7" />
+      <module name="base14_Socket" target="7" />
       <module name="base30_Lambda" target="1.8" />
     </bytecodeTargetLevel>
   </component>
